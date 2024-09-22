@@ -51,16 +51,16 @@ git config --global user.email "メールアドレス"
 
 # git の使い方
 
-- 	**git init**
+- **git init**
   - 新しいGitリポジトリを初期化します。
   - `git init`
-- 	**git add**
+- **git add**
   - 変更をステージングエリアに追加します。
   - `git add ファイル名`
-- 	**git commit**
+- **git commit**
   - ステージングエリアの変更をリポジトリにコミットします。
   - `git commit -m "コミットメッセージ"`
-- 	**git push**
+- **git push**
   - リモートリポジトリにローカルの変更をプッシュします。
   - `git push origin ブランチ名`
 
