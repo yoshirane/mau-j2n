@@ -53,12 +53,16 @@ git config --global user.email "メールアドレス"
 
 - git init
   - 新しいGitリポジトリを初期化します。
+  - `git init`
 - git add
   - 変更をステージングエリアに追加します。
+  - `git add ファイル名`
 - git commit
   - ステージングエリアの変更をリポジトリにコミットします。
+  - `git commit -m "コミットメッセージ"`
 - git push
   - リモートリポジトリにローカルの変更をプッシュします。
+  - `git push origin ブランチ名`
 
 # github アカウントの作成
 
