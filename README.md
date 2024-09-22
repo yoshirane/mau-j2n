@@ -20,3 +20,19 @@ Markdownの特徴は、その直感的な記法です。例えば、見出しに
 
 さらに、Markdownは多くのプラットフォームで対応しており、HTMLへの変換も簡単です。この特性から、開発者やライターが効率よくドキュメントやWebコンテンツを作成し、共有するためのツールとして広く利用されています。
 
+# git とは
+
+# git インストール
+
+# git セットアップ
+
+# git の使い方
+
+    - git init
+    - git add
+    - git commit
+    - git push
+
+# github アカウントの作成
+
+# github への　README.md 公開方法
