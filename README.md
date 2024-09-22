@@ -74,29 +74,29 @@ GitHubのアカウントを作成するには、以下の手順を実行
 
 # github への　README.md 公開方法
 
-1. GitHubで新しいリポジトリを作成します。
+## 1. GitHubで新しいリポジトリを作成します。
 
-2. ターミナルでリポジトリをクローンします。
+## 2. ターミナルでリポジトリをクローンします。
 ```
 git clone https://github.com/yoshirane/mau-j2n.git
 ```
 
-3. README.mdファイルを編集します。
+## 3. README.mdファイルを編集します。
 ```
 touch README.md
 ```
 
-4. 変更をGitに追加します。
+## 4. 変更をGitに追加します。
 ```
 git add README.md
 ```
 
-5. 変更をコミットします。
+## 5. 変更をコミットします。
 ```
 git commit -m "README.mdを追加しました"
 ```
 
-6. 変更をプッシュします。
+## 6. 変更をプッシュします。
 ```
 git push origin main
 ```
